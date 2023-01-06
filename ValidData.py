@@ -1,0 +1,12 @@
+validnumber='9829874215'
+validpassword='Exat2012'
+validmail='vakalov.92.20.12@gmail.com'
+validlogin='Тест'
+validlc='22125881254784125845'
+novalidnumber='9879541123'
+novalidmail= 'qwrqwsdfhsteyz@mail.com'
+novalidlogin= 'Тестик'
+novalidlc= '12412451426134631461'
+vname= 'Тест'
+vsname= 'Аккаунт'
+
